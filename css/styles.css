@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
 }
@@ -23,7 +23,7 @@ body {
 /* Навигация */
 .logo {
   color: var(--Primary-Brand);
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -45,7 +45,7 @@ body {
 }
 
 .list {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -57,7 +57,7 @@ body {
 /* Adress */
 
 .adress-list {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -84,7 +84,7 @@ body {
 }
 
 .hero-header {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -95,7 +95,7 @@ body {
 }
 
 .hero-button {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -109,15 +109,12 @@ body {
   color: var(--Pressed-State);
 }
 
-.pointer { 
+.pointer {
   cursor: pointer;
 }
-
 
 /* Header */
 
 /* Portfolio main */
 
 /* шрифты Roboto 400, Roboto 500, Roboto 700,  Raleway 800 */
-
-
