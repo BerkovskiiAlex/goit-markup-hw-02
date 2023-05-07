@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", "sans-serif";
+  font-family: 'Roboto', sans-serif;
   background-color: #ffffff;
   color: #434455;
 }
@@ -91,6 +91,11 @@ body {
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.hero-button {
+  background-color: #4d5ae5;
 }
 
 /* Header */
