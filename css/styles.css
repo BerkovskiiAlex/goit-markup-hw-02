@@ -38,6 +38,15 @@ body {
 .link {
   text-decoration: none;
 }
+.nav-link {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--Dark);
+  list-style: none;
+}
 
 .link:hover,
 .link:focus {
@@ -45,12 +54,6 @@ body {
 }
 
 .list {
-  font-family: "Roboto";
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--Dark);
   list-style: none;
 }
 
@@ -95,22 +98,19 @@ body {
 }
 
 .hero-button {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .hero-button:hover,
 .hero-button:focus {
   color: var(--Pressed-State);
-}
-
-.pointer {
-  cursor: pointer;
 }
 
 /* Header */
