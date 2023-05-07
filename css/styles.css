@@ -110,7 +110,7 @@ body {
 
 .hero-button:hover,
 .hero-button:focus {
-  color: var(--Pressed-State);
+  background-color: #404bbf;
 }
 
 /* Header */
