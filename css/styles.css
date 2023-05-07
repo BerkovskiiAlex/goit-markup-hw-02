@@ -1,3 +1,22 @@
 body {
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #2e2f42;
+}
+
+.list {
+  list-style: none;
+}
+
+/* цвет основного текста  NAVY BLUE color: #2E2F42; */
+/* цвет вторичного текста  SLATE   #434455 */
+/* Веб цвет IRIS   #4D5AE5 */
+/* CLOUD   #F4F4FD */
+/* вторичный цвет фона CORNFLOWER   #E7E9FC */
+
+/* Навигация */
+.logo {
+  color: #000;
+}
+
+.section-title {
 }
