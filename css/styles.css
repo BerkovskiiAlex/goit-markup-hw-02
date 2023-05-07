@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: "roboto", sans-serif;
   background-color: #ffffff;
   color: #434455;
 }
@@ -13,6 +13,10 @@ body {
 }
 
 .list {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   list-style: none;
 }
 
@@ -24,7 +28,14 @@ body {
 
 /* Навигация */
 .logo {
-  color: #000;
+  color: var(--Dark);
+  font-family: "Raleway";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+}
+.logo-web {
+  color: var(--Primary-Brand);
 }
 
 .section-title {
