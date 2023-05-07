@@ -1,6 +1,15 @@
 body {
+  font-family: sans-serif;
   background-color: #ffffff;
-  color: #2e2f42;
+  color: #434455;
+}
+
+:root {
+  --Dark: #2e2f42;
+  --Primary-Brand: #4d5ae5;
+  --Light: #f4f4fd;
+  --Accent: #e7e9fc;
+  --Text: #434455;
 }
 
 .list {
@@ -20,3 +29,9 @@ body {
 
 .section-title {
 }
+
+/* Header */
+
+/* Portfolio main */
+
+/* шрифты Roboto 400, Roboto 500, Roboto 700,  Raleway 800 */
