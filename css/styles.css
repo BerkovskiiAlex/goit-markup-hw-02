@@ -12,14 +12,6 @@ body {
   --Text: #434455;
 }
 
-.list {
-  font-family: "Roboto";
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  list-style: none;
-}
-
 /* цвет основного текста  NAVY BLUE color: #2E2F42; */
 /* цвет вторичного текста  SLATE   #434455 */
 /* Веб цвет IRIS   #4D5AE5 */
@@ -34,6 +26,15 @@ body {
   font-size: 18px;
   line-height: 1.17;
 }
+
+.list {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  list-style: none;
+}
+
 .logo-web {
   color: var(--Primary-Brand);
 }
