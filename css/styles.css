@@ -40,7 +40,7 @@ body {
 }
 
 .link:hover,
-.linkfocus {
+.link:focus {
   color: var(--Pressed-State);
 }
 
