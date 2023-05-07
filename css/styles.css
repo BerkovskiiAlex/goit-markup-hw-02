@@ -51,8 +51,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--Dark);
-
   list-style: none;
+}
+
+.adress-list {
+  font-style: normal;
 }
 
 .logo-web {
