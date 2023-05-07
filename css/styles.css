@@ -1,5 +1,5 @@
 body {
-  font-family: "roboto" sans-serif;
+  font-family: "roboto", "sans-serif";
   background-color: #ffffff;
   color: #434455;
 }
@@ -20,13 +20,17 @@ body {
 
 /* Навигация */
 .logo {
-  color: var(--Dark);
+  color: var(--Primary-Brand);
   font-family: "Raleway";
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+}
+
+.logo.list {
+  text-decoration: none;
 }
 
 .list {
