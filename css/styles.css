@@ -112,11 +112,9 @@ body {
 .hero-button:focus {
   background-color: #404bbf;
 }
+section-team
 
 /* Section 1 */
-
-.hidden {
-}
 
 .benefits-title {
   font-weight: 500;
@@ -146,6 +144,15 @@ body {
   color: var(--Dark);
 }
 
+/* Section 3 */
+
+.section-team {
+  background-color: #f4f4fd;
+}
+
+.team-list {
+  background-color: #ffffff;
+}
 /* Portfolio main */
 
 /* шрифты Roboto 400, Roboto 500, Roboto 700,  Raleway 800 */
