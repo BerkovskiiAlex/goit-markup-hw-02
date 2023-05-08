@@ -115,7 +115,10 @@ body {
 
 /* Section 1 */
 
-.section-1-header {
+.hidden {
+}
+
+.section-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
