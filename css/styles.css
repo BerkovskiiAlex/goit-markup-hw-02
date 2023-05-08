@@ -38,6 +38,7 @@ body {
 .link {
   text-decoration: none;
 }
+
 .nav-link {
   font-family: "Roboto";
   font-weight: 500;
@@ -77,8 +78,7 @@ body {
   color: var(--Dark);
 }
 
-.section-title {
-}
+.section-title {}
 
 /* Hero */
 
@@ -112,7 +112,6 @@ body {
 .hero-button:focus {
   background-color: #404bbf;
 }
-section-team
 
 /* Section 1 */
 
@@ -153,6 +152,7 @@ section-team
 .team-list {
   background-color: #ffffff;
 }
+
 /* Portfolio main */
 
 /* шрифты Roboto 400, Roboto 500, Roboto 700,  Raleway 800 */
