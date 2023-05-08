@@ -152,6 +152,14 @@ body {
   background-color: #ffffff;
 }
 
+.team-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--Dark);
+}
+
 /* Portfolio main */
 
 /* шрифты Roboto 400, Roboto 500, Roboto 700,  Raleway 800 */
