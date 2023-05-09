@@ -173,6 +173,21 @@ body {
 
 /*----------- Portfolio main ----------*/
 
+.portfolio-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--Primary-Brand);
+  background-color: var(--Light);
+}
 
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+  color: #ffffff;
+  background-color: var(--Pressed-State);
+  cursor: pointer;
+}
 
 /* шрифты Roboto 400, Roboto 500, Roboto 700,  Raleway 800 */
