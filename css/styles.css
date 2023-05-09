@@ -20,7 +20,7 @@ body {
 /* вторичный цвет фона CORNFLOWER   #E7E9FC */
 /* цвет OCEAN   #404BBF */
 
-/* Навигация */
+/*--------- navigation -------*/
 .logo {
   color: var(--Primary-Brand);
   font-family: "Raleway", sans-serif;
@@ -60,7 +60,7 @@ body {
 
 
 
-/* Adress */
+/*---------- Adress -------*/
 
 .adress-list {
   font-family: "Roboto";
@@ -81,7 +81,7 @@ body {
 }
 
 
-/* Hero */
+/*--------- Hero ----------*/
 
 .hero {
   background-color: var(--Dark);
@@ -114,7 +114,7 @@ body {
   background-color: #404bbf;
 }
 
-/* Section 1 */
+/*-------- Section 1------- */
 
 .benefits-title {
   font-weight: 500;
@@ -132,7 +132,7 @@ body {
   color: var(--Text);
 }
 
-/* Section 2 */
+/*------- Section 2 ----------*/
 
 .duing-title {
   font-weight: 700;
@@ -144,7 +144,7 @@ body {
   color: var(--Dark);
 }
 
-/* Section 3 */
+/*------- Section 3 -----------*/
 
 .section-team {
   background-color: #f4f4fd;
@@ -170,7 +170,8 @@ body {
   color: var(--Light);
 }
 
-/* Portfolio main */
+
+/*----------- Portfolio main ----------*/
 
 
 
