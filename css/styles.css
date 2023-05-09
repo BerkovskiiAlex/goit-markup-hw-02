@@ -39,6 +39,10 @@ body {
   text-decoration: none;
 }
 
+.list {
+  list-style: none;
+}
+
 .nav-link {
   font-family: "Roboto";
   font-weight: 500;
@@ -54,9 +58,7 @@ body {
   color: var(--Pressed-State);
 }
 
-.list {
-  list-style: none;
-}
+
 
 /* Adress */
 
@@ -161,5 +163,7 @@ body {
 }
 
 /* Portfolio main */
+
+
 
 /* шрифты Roboto 400, Roboto 500, Roboto 700,  Raleway 800 */
