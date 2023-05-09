@@ -163,11 +163,11 @@ body {
 }
 
 .footer {
-  color: var(--Dark);
+  background-color: #2e2f42;
 }
 
 .footer-span {
-  color: var(--Light);
+  background-color: var(--Light);
 }
 
 /* Portfolio main */
