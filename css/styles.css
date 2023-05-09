@@ -44,7 +44,8 @@ body {
 }
 
 .nav-link {
-  font-family: "Roboto";
+  font-family: "Roboto",
+    sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -63,7 +64,8 @@ body {
 /*---------- Adress -------*/
 
 .adress-list {
-  font-family: "Roboto";
+  font-family: "Roboto",
+    sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -88,7 +90,8 @@ body {
 }
 
 .hero-header {
-  font-family: "Roboto";
+  font-family: "Roboto",
+    sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -174,7 +177,7 @@ body {
 /*----------- Portfolio main ----------*/
 
 .portfolio-btn {
-  font-family: "Roboto", sans-serif;
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
