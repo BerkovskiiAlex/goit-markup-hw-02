@@ -153,14 +153,6 @@ body {
 }
 
 
-/* 
-.benefits-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--Text);
-} */
-
 /*------- Section 2 ----------*/
 
 .duing-title {
@@ -191,12 +183,21 @@ body {
   color: var(--Dark);
 }
 
+
+/* ----------------footer------------ */
 .footer {
   background-color: #2e2f42;
 }
 
 .footer-span {
   color: var(--Light);
+}
+
+.footer-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
 
 
@@ -218,6 +219,13 @@ body {
   color: #ffffff;
   background-color: var(--Pressed-State);
 
+}
+
+.benefits-text-portfolio {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--Text);
 }
 
 /* шрифты Roboto 400, Roboto 500, Roboto 700,  Raleway 800 */
