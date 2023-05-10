@@ -124,33 +124,13 @@ body {
 }
 
 
-.benefits-strategy {
+.benefits-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--Text);
 }
 
-.benefits-punctuality {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--Text);
-}
-
-.benefits-diligence {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--Text);
-}
-
-.benefits-technologies {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--Text);
-}
 
 
 /*------- Section 2 ----------*/
